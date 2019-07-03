@@ -6,7 +6,7 @@ This repository attempts to solve the problem of pathfinding and route planning,
 <br>
 
 ## Author
-You can get in touch with me on <a class="btn-linkedin" href="https://www.linkedin.com/lyin/ibrahim-zfr/">LinkedIn</a>!
+You can get in touch with me on <a class="btn-linkedin" href="https://www.linkedin.com/in/ibrahim-zfr/">LinkedIn</a>!
 
 If you liked my repository, kindly support my work by giving it a ⭐! <br>
 <br>
